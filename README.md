@@ -17,7 +17,7 @@ Official website for Team YAAS.
 
 ## Requirements
 
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/team-yaas?logo=html&style=social)](https://github.com/akshatvg/)
+[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/team-yaas?logo=javascript&style=social)](https://github.com/akshatvg/)
 
 The source code of this project is written in **`HTML/CSS/JS`**. So, you do not require anything extra to run this project.
 
